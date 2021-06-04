@@ -39,3 +39,6 @@ See the man page for details.
 
 
 ## Added
+https://tools.suckless.org/dmenu/patches/case-insensitive/
+
+https://tools.suckless.org/dmenu/patches/xresources/
