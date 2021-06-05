@@ -46,3 +46,5 @@ https://tools.suckless.org/dmenu/patches/xresources/
 https://tools.suckless.org/dmenu/patches/highlight/
 
 https://tools.suckless.org/dmenu/patches/morecolor/
+
+https://tools.suckless.org/dmenu/patches/pipeout/
