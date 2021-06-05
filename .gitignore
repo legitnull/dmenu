@@ -5,3 +5,4 @@ stest
 stest.o
 util.o
 dmenu.c.orig
+config.h.orig
