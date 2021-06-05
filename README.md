@@ -43,3 +43,4 @@ https://tools.suckless.org/dmenu/patches/case-insensitive/
 
 https://tools.suckless.org/dmenu/patches/xresources/
 
+https://tools.suckless.org/dmenu/patches/highlight/
